@@ -1,0 +1,10 @@
+tensorflow
+numpy
+matplotlib.pyplot
+seaborn
+sklearn.model_selection
+sklearn.metrics
+skimage
+os
+Ipython.display
+ipywidgets
